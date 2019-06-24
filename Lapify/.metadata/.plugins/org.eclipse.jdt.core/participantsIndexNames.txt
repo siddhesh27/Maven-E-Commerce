@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+D:\Oracle\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3586086164.index
+\JuztShop\src\main\java
+D:\Oracle\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\725036058.index
+\JuztShop\src\main\java
+D:\Oracle\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2849357767.index
+\JuztShop\src\main\java
+D:\Oracle\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1730649910.index
+\JuztShop\src\main\java
+D:\Oracle\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4142252904.index
+\JuztShop\src\main\java
+D:\Oracle\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1208463270.index
+\JuztShop\src\main\java

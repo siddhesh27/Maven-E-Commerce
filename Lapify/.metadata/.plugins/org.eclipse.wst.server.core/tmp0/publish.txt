@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Mar 30 12:14:06 IST 2019
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Siddhesh\ Modak\\.m2\\repository\\org\\springframework\\spring-web\\5.1.4.RELEASE\\spring-web-5.1.4.RELEASE.jar=WEB-INF/lib/spring-web-5.1.4.RELEASE.jar
+org.eclipse.jst.j2ee.server\:JuztShopBackend=WEB-INF/lib/JuztShopBackend-0.0.1-SNAPSHOT.jar
